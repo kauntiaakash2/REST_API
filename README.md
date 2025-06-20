@@ -45,30 +45,6 @@ REST_API/
    npx nodemon index.js
    ```
 
----
-
-## 🧪 Sample API Endpoint
-
-### `POST /api/data`
-
-**Request Body:**
-```json
-{
-  "name": "Akash",
-  "age": 18
-}
-```
-
-**Response:**
-```json
-{
-  "message": "Data received",
-  "data": {
-    "name": "Akash",
-    "age": 18
-  }
-}
-```
 
 ---
 
