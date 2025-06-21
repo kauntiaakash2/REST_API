@@ -107,8 +107,6 @@ Content-Type: application/json
 The API would typically respond with a confirmation, possibly including the newly created user's data:
 
 ```json
-HTTP/1.1 201 Created
-Content-Type: application/json
 
 {
     "status": "success",
@@ -163,11 +161,6 @@ Contributions are always welcome\! If you have suggestions for improvements or n
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request.
 
------
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 -----
 
